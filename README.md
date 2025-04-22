@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-![One Person Company AI Tools](./assets/gif/banner-cape.gif)
+![Overseas-funds-to-RMB-by-eCOM](./svgviewer-output.svg)
 
 <h1>跨境收款全集</h1>
 
