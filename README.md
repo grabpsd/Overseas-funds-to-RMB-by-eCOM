@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 <h1>跨境收款资料集</h1>
-![Overseas-funds-to-RMB-by-eCOM](./svgviewer-output.svg)
+![Overseas-funds-to-RMB-by-eCOM] (./svgviewer-output.svg)
 
 详细说说跨境收款的各种工具，方法及流程。
 
